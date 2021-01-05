@@ -167,7 +167,19 @@ footer{
 
 
 /* media modification taille */
-@media screen and (min-width : 770px) {
+@media screen and (min-width : 1200px) {
+    *{
+        font-size: 16px;
+    }
+    .block {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+@media screen and (min-width : 770px) and (max-width: 1199px) {
     *{
         font-size: 12px;
     }
