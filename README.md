@@ -1,8 +1,8 @@
-# Asso-studi
-#creat project
-#ajout Menu
-#Ajout présentation
-#Ajout Contact + footer
-#Creat page Connection
-#Creat Page Inscription
-#Modif link nav
+FORMATION STUDI
+_____________
+
+__Asso-studi__
+_______________
+
+
+Dans le cadre de ma formation du soir, J'ai réalisé un site Web responsive (première épreuve HTML,CSS)
